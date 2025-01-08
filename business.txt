@@ -1,0 +1,16 @@
+#!/bin/bash
+# Author: Jake Nagle
+# Description:
+# A conference catalogue which will control the registering of who will attend the event using a Shell script system.
+
+# Information user can add to to file includes:
+# registerationId, firstName, lastName, company, department, position phone number and email address
+# Some sample information has been put in already
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+| RegID [000] |  Name  | Company | Department | Position | Phone Number | Email Address |
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+001 Michael Scott Dunder Mifflin manager sales 40076082 mscott@gmail.com
+002 Dwight Schrute Dunder Mifflin salesman sales 03306332 dshrute@gmail.com
+003 Angela Martin Dunder Mifflin senior accountant accounting 09834567 amartin@gmail.com
+004 Jake Nagle Water Sales 098732323 jake@gmail.com
